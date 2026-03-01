@@ -9,7 +9,7 @@ description: "First and only Taiko group in Norway. Based in Oslo"
 
 # Team names, titles and social links
 people:
-- name: Masayo Sato
+- name: Masayo
   pic: 1
   position: Group leader and main teacher
    # social:
@@ -20,7 +20,7 @@ people:
  #   - title: google-plus
  #     url: #
 
-- name: Nicole Waniowska
+- name: Nicole
   pic: 2
   position: External contact
   # social:
@@ -31,7 +31,7 @@ people:
  #   - title: google-plus
  #     url: #
 
-- name: Siri Holme
+- name: Siri
   pic: 3
   position: Social media manager and Internal contact
  # social:
