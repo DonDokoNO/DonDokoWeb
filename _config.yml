@@ -33,7 +33,7 @@ people:
 
 - name: Siri Holme
   pic: 3
-  position: Social media manager
+  position: Social media manager and Internal contact
  # social:
 #    - title: twitter
 #      url: #
@@ -59,8 +59,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Trondheimsveien 2, H, 
+  - line: 0560 Oslo
 
 # Build settings
 markdown: kramdown
