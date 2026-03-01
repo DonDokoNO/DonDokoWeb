@@ -9,51 +9,53 @@ description: "First and only Taiko group in Norway. Based in Oslo"
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Masayo Sato
   pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  position: Group leader and main teacher
+   # social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+ #   - title: google-plus
+ #     url: #
 
-- name: Larry Parker
+- name: Nicole Waniowska
   pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  position: External contact
+  # social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+ #   - title: google-plus
+ #     url: #
 
-- name: Diana Petersen
+- name: Siri Holme
   pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  position: Social media manager
+ # social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+ #   - title: google-plus
+ #     url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+ # - title: twitter
+ #   url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/dondoko.norway/
+  - title: instagram
+    url: https://www.instagram.com/dondokonorway/
+#  - title: stack-overflow
+ #   url: http://stackoverflow.com/questions/tagged/jekyll
+ # - title: bitbucket 
+ #   url: http://bitbucket.org/jekyll
+#  - title: github
+  #  url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
